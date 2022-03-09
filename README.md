@@ -1,2 +1,4 @@
 # hello
 learn
+solidity
+smartcontrac
